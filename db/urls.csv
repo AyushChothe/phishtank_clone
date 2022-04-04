@@ -1,0 +1,5 @@
+url,is_valid
+https://www.google.com,yes
+https://www.dummy.com,no
+https://www.facebook.com,yes
+https://www.example.com,no
